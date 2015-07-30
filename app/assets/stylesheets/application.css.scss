@@ -18,14 +18,8 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
-centrO{
-  margin-left: auto;
-  margin-right: auto;
-}
-
  body {
     	background: #E9E9E9;
-   background-image: url('401.jpg');
 
  }
 
@@ -55,6 +49,8 @@ centrO{
  	  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
  	  border-radius: 7px;
  	  text-align: center;
+    padding-left: 0;
+    padding-right: 0;
  	  img {
  	  	max-width: 100%;
  	  	height: auto;
